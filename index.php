@@ -78,6 +78,7 @@
     <!-- preloader area start -->
     <div id="preloader">
         <div class="loader"></div>
+        <h></h>
     </div>
     <!-- preloader area end -->
     <!-- page container area start -->
@@ -88,6 +89,7 @@
                 <div class="logo">
                     <a href="index.php"><img src="assets/images/icon/logo.png" alt="logo"></a>
                 </div>
+                <h></h>
             </div>
             <div class="main-menu">
                 <div class="menu-inner">
